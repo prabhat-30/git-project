@@ -1,3 +1,6 @@
 Get the user detail.......
 processing the data
 abvcdefghjijklmnopqrstuvwxyz
+
+
+create an avatar forc user
