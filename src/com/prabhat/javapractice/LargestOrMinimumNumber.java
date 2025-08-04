@@ -66,6 +66,8 @@ public class LargestOrMinimumNumber {
             findMinimum(num1,num2,num3);
             ternaryLargest(num1,num2,num3);
             System.out.println(" src/com/prabhat/javapractice/LargestOrMinimumNumber.java");
+            //uhyuejqwhjkeqghwuihyqwhdqwutdjkqwhyi8
+            //uugheruhuiewyjbhewjyuejqhuey
 
         }
     }
